@@ -1,6 +1,6 @@
 sudo pacman -Syu
 
-sudo pacman -S git discord chromium nodejs npm vim gimp audacity handbrake obs-studio mpv vlc flatpak keepassxc notepadqq kate gufw okular gparted youtube-dl kmail rhythmbox java8-openjfx jdk8-openjdk jre8-openjdk jre8-openjdk-headless dotnet-sdk
+sudo pacman -S git discord nodejs npm vim gimp audacity handbrake obs-studio mpv vlc flatpak keepassxc notepadqq kate gufw okular gparted kmail java8-openjfx jdk8-openjdk jre8-openjdk jre8-openjdk-headless 
 
 sudo pacman -S --needed base-devel
 
@@ -44,5 +44,3 @@ flatpak run org.qbittorrent.qBittorrent
 
 after downloading tlauncher from https://tlauncher.org/en/
 sudo java -jar TLauncher-2.86.jar
-
-
